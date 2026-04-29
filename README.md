@@ -19,7 +19,11 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
+<<<<<<< HEAD
   <img alt="projeto ryan" src= ./.github/preview.jpg width="100%">
+=======
+  <img alt="projeto ryan" src=https://github.com/ryanroch14/PROJETO-RYAN/blob/main/.vccode/.github/preview.jpg?raw=true width="100%">
+>>>>>>> cb8cb7feee77cd4f0c5cb8cd51f1682016a5ab40
 </p>
 
 ## 🚀 Tecnologias
